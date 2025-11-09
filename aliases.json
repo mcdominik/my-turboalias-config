@@ -35,6 +35,10 @@
     "noautosync": {
       "command": "echo no auto",
       "category": null
+    },
+    "gsync": {
+      "command": "git add . && git commit -m \"sync\" && git push",
+      "category": "git"
     }
   },
   "categories": {
@@ -49,7 +53,8 @@
     "git": [
       "gst",
       "gco",
-      "glog"
+      "glog",
+      "gsync"
     ],
     "test": [
       "testsynch"
