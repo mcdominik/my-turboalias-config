@@ -43,6 +43,14 @@
     "testchange": {
       "command": "echo test",
       "category": "test"
+    },
+    "autotest1": {
+      "command": "echo auto sync test 1",
+      "category": "test"
+    },
+    "autotest2": {
+      "command": "echo auto sync test 2",
+      "category": "test"
     }
   },
   "categories": {
@@ -62,7 +70,9 @@
     ],
     "test": [
       "testsynch",
-      "testchange"
+      "testchange",
+      "autotest1",
+      "autotest2"
     ]
   }
 }
