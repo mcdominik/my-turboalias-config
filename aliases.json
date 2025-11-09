@@ -39,6 +39,10 @@
     "gsync": {
       "command": "git add . && git commit -m \"sync\" && git push",
       "category": "git"
+    },
+    "testchange": {
+      "command": "echo test",
+      "category": "test"
     }
   },
   "categories": {
@@ -57,7 +61,8 @@
       "gsync"
     ],
     "test": [
-      "testsynch"
+      "testsynch",
+      "testchange"
     ]
   }
 }
