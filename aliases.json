@@ -91,6 +91,10 @@
     "confirmed": {
       "command": "echo confirmed working",
       "category": "test"
+    },
+    "test8": {
+      "command": "echo test8",
+      "category": null
     }
   },
   "categories": {
