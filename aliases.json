@@ -59,6 +59,18 @@
     "autotest": {
       "command": "echo auto-sync test",
       "category": null
+    },
+    "finaltest": {
+      "command": "echo final test",
+      "category": null
+    },
+    "test2": {
+      "command": "echo test2",
+      "category": null
+    },
+    "test3": {
+      "command": "echo test3",
+      "category": null
     }
   },
   "categories": {
