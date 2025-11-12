@@ -83,6 +83,10 @@
     "autosynctest3": {
       "command": "echo third test works!",
       "category": "test"
+    },
+    "autosyncfinal": {
+      "command": "echo auto sync finally works!",
+      "category": "test"
     }
   },
   "categories": {
@@ -107,7 +111,8 @@
       "autotest2",
       "autosynctest",
       "autosynctest2",
-      "autosynctest3"
+      "autosynctest3",
+      "autosyncfinal"
     ]
   }
 }
