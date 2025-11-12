@@ -71,6 +71,10 @@
     "test3": {
       "command": "echo test3",
       "category": null
+    },
+    "autosynctest": {
+      "command": "echo auto sync is working",
+      "category": "test"
     }
   },
   "categories": {
@@ -92,7 +96,8 @@
       "testsynch",
       "testchange",
       "autotest1",
-      "autotest2"
+      "autotest2",
+      "autosynctest"
     ]
   }
 }
