@@ -51,6 +51,10 @@
     "autotest2": {
       "command": "echo auto sync test 2",
       "category": "test"
+    },
+    "synctest": {
+      "command": "echo sync works!",
+      "category": null
     }
   },
   "categories": {
