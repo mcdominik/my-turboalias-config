@@ -75,6 +75,14 @@
     "autosynctest": {
       "command": "echo auto sync is working",
       "category": "test"
+    },
+    "autosynctest2": {
+      "command": "echo second test",
+      "category": "test"
+    },
+    "autosynctest3": {
+      "command": "echo third test works!",
+      "category": "test"
     }
   },
   "categories": {
@@ -97,7 +105,9 @@
       "testchange",
       "autotest1",
       "autotest2",
-      "autosynctest"
+      "autosynctest",
+      "autosynctest2",
+      "autosynctest3"
     ]
   }
 }
