@@ -87,6 +87,10 @@
     "autosyncfinal": {
       "command": "echo auto sync finally works!",
       "category": "test"
+    },
+    "confirmed": {
+      "command": "echo confirmed working",
+      "category": "test"
     }
   },
   "categories": {
@@ -112,7 +116,8 @@
       "autosynctest",
       "autosynctest2",
       "autosynctest3",
-      "autosyncfinal"
+      "autosyncfinal",
+      "confirmed"
     ]
   }
 }
